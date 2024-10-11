@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/conallwang)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/conallwang?cardType=level-alternate&preferLogin=false&Border=1D25DD)](https://git.io/awesome-stats-card)
